@@ -1,5 +1,4 @@
 import 'package:apptheme/core/theme/dark_app_colors.dart';
-import 'package:apptheme/core/theme/light_app_colors.dart';
 import 'package:flutter/material.dart';
 
 class DarkTheme {
