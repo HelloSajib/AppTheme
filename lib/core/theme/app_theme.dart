@@ -7,7 +7,7 @@ class AppTheme {
   
   /// For LightMode Theme
   static final ThemeData lightTheme = ThemeData(
-    brightness: Brightness.light,
+    //brightness: Brightness.light,
     useMaterial3: true,
     colorScheme: ColorScheme.light(
       primary: lightAppColors.primary,
@@ -21,7 +21,7 @@ class AppTheme {
   
   /// For DarkMode Theme
   static final ThemeData darkTheme = ThemeData(
-    brightness: Brightness.light,
+    //brightness: Brightness.light,
     useMaterial3: true,
     colorScheme: ColorScheme.dark(
       primary: darkAppColors.primary,
